@@ -19,4 +19,12 @@ Usage:
 
 GitHub Repository:https://github.com/Ridhesh05/CV_generator.git
 
+
+![image](https://github.com/Ridhesh05/CV_generator/assets/123955317/7bdc1f79-e584-4ef8-a53e-575d4d797347)
+
+
+![image](https://github.com/Ridhesh05/CV_generator/assets/123955317/cdb05848-f02d-41b5-ae8d-f4fb5c5b8f1b)
+
+
+
 Note: Contributions, feedback, and suggestions for improvement are welcome. Feel free to fork the repository and contribute to the project's development.
